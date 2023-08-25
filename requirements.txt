@@ -1,0 +1,4 @@
+pandas
+numpy 
+seaborn
+-e . # it automatic trigger setup.py
